@@ -21,3 +21,5 @@ This plugin adds code folding support to gedit 3.x. It supports several (meaning
 - XML
 
 ##Screenshots
+#####Java
+![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
