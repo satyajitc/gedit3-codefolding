@@ -22,4 +22,12 @@ This plugin adds code folding support to gedit 3.x. It supports several (meaning
 
 ##Screenshots
 #####Java
-![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://raw.github.com/satyajitc/gedit3-codefolding/master/screenshots/Java.png)
+#####Javascript
+![alt tag](https://raw.github.com/satyajitc/gedit3-codefolding/master/screenshots/JS.png)
+#####C
+![alt tag](https://raw.github.com/satyajitc/gedit3-codefolding/master/screenshots/C.png)
+#####Lua
+![alt tag](https://raw.github.com/satyajitc/gedit3-codefolding/master/screenshots/Lua.png)
+#####sh/bash
+![alt tag](https://raw.github.com/satyajitc/gedit3-codefolding/master/screenshots/sh.png)
