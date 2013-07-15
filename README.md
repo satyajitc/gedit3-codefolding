@@ -26,6 +26,9 @@ Besides folding indivudual blocks by clicking the individual block start markers
 - SQL
 - XML
 
+##Installation
+Copy both the files from the src directory of this repo & place in .local/share/gedit/plugins directory.
+
 ##Screenshots
 Please note that most of the exmaple code in the screenshots are taken from the public domain. I apologize if I am not respecting someone's copyright here.
 #####Java
