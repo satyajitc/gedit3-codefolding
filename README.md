@@ -32,14 +32,15 @@ Please note that most of the exmaple code in the screenshots are taken from the 
 ![alt tag](https://raw.github.com/satyajitc/gedit3-codefolding/master/screenshots/Java.png)
 #####Javascript
 ![alt tag](https://raw.github.com/satyajitc/gedit3-codefolding/master/screenshots/JS.png)
-#####C
-![alt tag](https://raw.github.com/satyajitc/gedit3-codefolding/master/screenshots/C.png)
-#####Lua
-![alt tag](https://raw.github.com/satyajitc/gedit3-codefolding/master/screenshots/Lua.png)
-#####sh/bash
-![alt tag](https://raw.github.com/satyajitc/gedit3-codefolding/master/screenshots/sh.png)
+
 
 ##Notes
 - Code folding is dependent on properly formatted blocks of code. If the folding behaves erratic try reformatting the code
 - A simple way of reformatting to facilitate folding is to have block start and end constructs in seperate individual lines
 - A light color scheme works best (actually dark schemes don't show the markers at all) with this plugin, for now
+
+##License
+<pre><code>Permission to copy, use, modify, sell and distribute this software is granted. 
+This software is provided "as is" without express or implied warranty, and with no claim as to its suitability
+for any purpose.
+</code></pre>
