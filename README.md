@@ -4,7 +4,7 @@ gedit3-codefolding
 This plugin adds code folding support to gedit 3.x. It supports several (meaning more than 1) languages. Note that this plugin is <b>not</b> compatible with gedit 2.x.
 
 ##Features
-Besides folding indivudual blocks by clicking the individual block start markers on the left margin, two other operations are supported either from the Tools menu or from the keyboard like this
+Besides folding indivudual blocks by clicking the respective block start markers on the left margin, two other operations are supported either from the Tools menu or from the keyboard like this
 - <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>T</kbd>: Toggle all blocks
 - <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd>: Fold current block
 
